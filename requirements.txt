@@ -6,7 +6,7 @@ click==8.0.2
 colorama==0.4.4
 idna==3.2
 importlib-metadata==4.8.1
-joblib==1.1.0
+joblib==1.2.0
 lxml==4.6.3
 numpy==1.21.2
 oauthlib==3.1.1
